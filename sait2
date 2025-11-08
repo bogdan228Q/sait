@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <title>Полезная информация!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>привет как дела что делаешь как жена как дети как соседи как собака?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????!</h1>
+    <p>ПРОСТО</p>
+    <h2>заголовок поменьше</h2>
+             <ol>
+                   <li>А это точечки в списке (Это первая)</li>
+                   <li>А это вторая</li>
+             </ol>
+     <img src="images2\12e9c655f1fc949c218ffde2e3d078bb.jpg" alt="Image 1">
+     <h1>Привет!</h1>
+     <h2>!!!!!!!!!!!!</h2>
+     <h3>fhfhfhf</h3>
+     <h4>привет</h4>
+     <h5>жжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжжж</h5>
+     <iframe src="https://www.meteoblue.com/en/weather/widget/daily?geoloc=detect&days=7&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=1&maxtemperature=1&mintemperature=1&windspeed=1&windgust=0&winddirection=1&uv=0&humidity=0&precipitation=1&precipitationprobability=1&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 378px; height: 420px"></iframe>
+</body>
+</html>
